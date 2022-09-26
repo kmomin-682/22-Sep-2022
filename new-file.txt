@@ -1,2 +1,4 @@
 <p>Doing changes in local repository</p>
 <p>Creating conflict in local repository</p>
+<p>Creating a conflict issue in remote repository</p>
+
