@@ -1,4 +1,5 @@
 <p>Doing changes in local repository</p>
 <p>Creating conflict in local repository</p>
 <p>Creating a conflict issue in remote repository</p>
+<p>Doing changes while being on custom branch but not committing the change.</p>
 
